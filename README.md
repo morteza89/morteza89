@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Imaging scientist at Philips developing computer vision and deep learning based <br>algorithms on medical Images like MRI, CT, Xray <br>to do tasks like classification, segmentation, registration, anomaly detection, etc.
+I am an Imaging Scientist at Philips specializing in developing computer vision and deep learning algorithms applied to medical imaging modalities such as MRI, CT, and X-ray. My work involves addressing a wide range of tasks, including classification, segmentation, registration, and anomaly detection, among others.
 
 
 ## 🌐 Socials:
