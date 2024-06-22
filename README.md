@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m **Morteza Heidari**, an Imaging Scientist at Philips. I specialize in developing advanced computer vision and deep learning solutions for medical imagage applications, including MRI, CT, and X-ray systems. My expertise encompasses a variety of technical challenges such as classification, segmentation, registration, and anomaly detection, aiming to enhance diagnostic accuracy and improve patient outcomes.
+I’m **Morteza Heidari**, a Staff machine learning engineer @Intel. I specialize in developing advanced computer vision and deep learning solutions for video and Image applications. My expertise encompasses a variety of technical challenges such as classification, segmentation, registration, and model optimization, aiming to enhance the accuracy and performance of developed models.
 
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/mortezaheidari/) - Connect with me for professional networking.
