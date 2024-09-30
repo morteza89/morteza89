@@ -73,9 +73,5 @@ I’m **Morteza Heidari**, a Staff Machine Learning Engineer at Intel. I special
 </a>
 
 </div>
-
-### 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=morteza89&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
