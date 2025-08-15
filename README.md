@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m **Morteza Heidari**, a Staff Machine Learning Engineer at Intel. I specialize in developing advanced computer vision and deep learning solutions for video and image applications. My expertise encompasses a variety of technical challenges such as classification, segmentation, registration, and model optimization, aiming to enhance the accuracy and performance of developed models.
+I’m **Morteza Heidari**, a Staff Machine Learning Engineer at Intel. I specialize in developing advanced computer vision and deep learning solutions for videod/image/NLP applications. My expertise encompasses a variety of technical challenges such as classification, segmentation, registration, and model quantization/optimization, aiming to enhance the accuracy and performance of developed models.
 
 ## 🌐 Connect with Me
 
